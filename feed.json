@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "docs.creatorino.com",
+    "description": "",
+    "home_page_url": "https://github.com/benjamin-mcdaniel",
+    "feed_url": "https://github.com/benjamin-mcdaniel/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mesa"
+    },
+    "items": [
+    ]
+}
