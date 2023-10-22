@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>docs.creatorino.com</title>
+    <title>ben</title>
     <link href="https://docs.creatorino.com/feed.xml" rel="self" />
     <link href="https://docs.creatorino.com" />
-    <updated>2023-10-21T14:50:36-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
-        <name>Mesa</name>
+        <name>ben</name>
     </author>
     <id>https://docs.creatorino.com</id>
 
-    <entry>
-        <title>Intro to docs.creatorino</title>
-        <author>
-            <name>Mesa</name>
-        </author>
-        <link href="https://docs.creatorino.com/intro-to-docscreatorino.html"/>
-        <id>https://docs.creatorino.com/intro-to-docscreatorino.html</id>
-
-        <updated>2023-10-21T14:50:36-07:00</updated>
-            <summary>
-                <![CDATA[
-                    Currently a place holder as we work on publishing our docs in large sections.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Currently a place holder as we work on publishing our docs in large sections.
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>

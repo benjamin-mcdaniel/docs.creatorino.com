@@ -1,27 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "docs.creatorino.com",
+    "title": "ben",
     "description": "",
     "home_page_url": "https://docs.creatorino.com",
     "feed_url": "https://docs.creatorino.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Mesa"
+        "name": "ben"
     },
     "items": [
-        {
-            "id": "https://docs.creatorino.com/intro-to-docscreatorino.html",
-            "url": "https://docs.creatorino.com/intro-to-docscreatorino.html",
-            "title": "Intro to docs.creatorino",
-            "summary": "Currently a place holder as we work on publishing our docs in large sections.",
-            "content_html": "\n  <p>\n    Currently a place holder as we work on publishing our docs in large sections.\n  </p>",
-            "author": {
-                "name": "Mesa"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-21T14:50:36-07:00",
-            "date_modified": "2023-10-21T14:50:36-07:00"
-        }
     ]
 }
