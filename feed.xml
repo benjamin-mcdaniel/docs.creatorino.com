@@ -3,12 +3,51 @@
     <title>docs.creatorino.com</title>
     <link href="https://docs.creatorino.com/feed.xml" rel="self" />
     <link href="https://docs.creatorino.com" />
-    <updated>2023-10-22T00:33:25-07:00</updated>
+    <updated>2023-10-22T00:42:04-07:00</updated>
     <author>
         <name>Mesa</name>
     </author>
     <id>https://docs.creatorino.com</id>
 
+    <entry>
+        <title>Events</title>
+        <author>
+            <name>Mesa</name>
+        </author>
+        <link href="https://docs.creatorino.com/events.html"/>
+        <id>https://docs.creatorino.com/events.html</id>
+            <category term="Twitch"/>
+
+        <updated>2023-10-22T00:39:31-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Titles</title>
+        <author>
+            <name>Mesa</name>
+        </author>
+        <link href="https://docs.creatorino.com/titles.html"/>
+        <id>https://docs.creatorino.com/titles.html</id>
+            <category term="YouTube"/>
+
+        <updated>2023-10-22T00:39:16-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Raid Shadow Legends</title>
+        <author>
+            <name>Mesa</name>
+        </author>
+        <link href="https://docs.creatorino.com/raid-shadow-legends.html"/>
+        <id>https://docs.creatorino.com/raid-shadow-legends.html</id>
+            <category term="Monitization"/>
+
+        <updated>2023-10-22T00:38:58-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Descriptions</title>
         <author>
@@ -29,8 +68,9 @@
         </author>
         <link href="https://docs.creatorino.com/introduction.html"/>
         <id>https://docs.creatorino.com/introduction.html</id>
+            <category term="Creatorino"/>
 
-        <updated>2023-10-22T00:30:28-07:00</updated>
+        <updated>2023-10-22T00:42:04-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

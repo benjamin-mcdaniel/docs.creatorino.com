@@ -11,6 +11,45 @@
     },
     "items": [
         {
+            "id": "https://docs.creatorino.com/events.html",
+            "url": "https://docs.creatorino.com/events.html",
+            "title": "Events",
+            "author": {
+                "name": "Mesa"
+            },
+            "tags": [
+                   "Twitch"
+            ],
+            "date_published": "2023-10-22T00:39:31-07:00",
+            "date_modified": "2023-10-22T00:39:31-07:00"
+        },
+        {
+            "id": "https://docs.creatorino.com/titles.html",
+            "url": "https://docs.creatorino.com/titles.html",
+            "title": "Titles",
+            "author": {
+                "name": "Mesa"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2023-10-22T00:39:16-07:00",
+            "date_modified": "2023-10-22T00:39:16-07:00"
+        },
+        {
+            "id": "https://docs.creatorino.com/raid-shadow-legends.html",
+            "url": "https://docs.creatorino.com/raid-shadow-legends.html",
+            "title": "Raid Shadow Legends",
+            "author": {
+                "name": "Mesa"
+            },
+            "tags": [
+                   "Monitization"
+            ],
+            "date_published": "2023-10-22T00:38:58-07:00",
+            "date_modified": "2023-10-22T00:38:58-07:00"
+        },
+        {
             "id": "https://docs.creatorino.com/descriptions.html",
             "url": "https://docs.creatorino.com/descriptions.html",
             "title": "Descriptions",
@@ -32,9 +71,10 @@
                 "name": "Mesa"
             },
             "tags": [
+                   "Creatorino"
             ],
             "date_published": "2023-10-22T00:30:04-07:00",
-            "date_modified": "2023-10-22T00:30:28-07:00"
+            "date_modified": "2023-10-22T00:42:04-07:00"
         }
     ]
 }
