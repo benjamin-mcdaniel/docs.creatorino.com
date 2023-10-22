@@ -5,9 +5,36 @@
     "home_page_url": "https://docs.creatorino.com",
     "feed_url": "https://docs.creatorino.com/feed.json",
     "user_comment": "",
+    "icon": "https://docs.creatorino.com/media/website/image02-1-Copy-2.jpg",
     "author": {
-        "name": "ben"
+        "name": "Mesa"
     },
     "items": [
+        {
+            "id": "https://docs.creatorino.com/descriptions.html",
+            "url": "https://docs.creatorino.com/descriptions.html",
+            "title": "Descriptions",
+            "author": {
+                "name": "Mesa"
+            },
+            "tags": [
+                   "YouTube"
+            ],
+            "date_published": "2023-10-22T00:33:25-07:00",
+            "date_modified": "2023-10-22T00:33:25-07:00"
+        },
+        {
+            "id": "https://docs.creatorino.com/introduction.html",
+            "url": "https://docs.creatorino.com/introduction.html",
+            "title": "Introduction",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Mesa"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-22T00:30:04-07:00",
+            "date_modified": "2023-10-22T00:30:28-07:00"
+        }
     ]
 }

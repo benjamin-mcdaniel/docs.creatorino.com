@@ -3,10 +3,42 @@
     <title>docs.creatorino.com</title>
     <link href="https://docs.creatorino.com/feed.xml" rel="self" />
     <link href="https://docs.creatorino.com" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2023-10-22T00:33:25-07:00</updated>
     <author>
-        <name>ben</name>
+        <name>Mesa</name>
     </author>
     <id>https://docs.creatorino.com</id>
 
+    <entry>
+        <title>Descriptions</title>
+        <author>
+            <name>Mesa</name>
+        </author>
+        <link href="https://docs.creatorino.com/descriptions.html"/>
+        <id>https://docs.creatorino.com/descriptions.html</id>
+            <category term="YouTube"/>
+
+        <updated>2023-10-22T00:33:25-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Mesa</name>
+        </author>
+        <link href="https://docs.creatorino.com/introduction.html"/>
+        <id>https://docs.creatorino.com/introduction.html</id>
+
+        <updated>2023-10-22T00:30:28-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
